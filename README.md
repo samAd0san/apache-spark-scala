@@ -17,9 +17,9 @@
 - Show Dataframe
 - Add JVM option ```--add-exports java.base/sun.nio.ch=ALL-UNNAMED```<br>
 **docs ref.**
-- ```https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/SparkSession.html```
-- ```https://spark.apache.org/docs/3.5.2/sql-data-sources-csv.html#content```
-- ```https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset```<br>
+- <a>https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/SparkSession.html</a>
+- <a>https://spark.apache.org/docs/3.5.2/sql-data-sources-csv.html#content</a>
+- <a>https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset</a><br>
 **O/P**
 ```
 +----------+------------------+------------------+------------------+------------------+-------------------+---------+
